@@ -3,11 +3,16 @@ p, ul {
 }
 
 img {
-  width: 20%;
+  width: 30%;
   display: block;
   margin: 0 auto;
 }
 
 h2 {
   text-align: center;
+}
+
+section {
+  width: 90%;
+  margin: 0 auto;
 }
