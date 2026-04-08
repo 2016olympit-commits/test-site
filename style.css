@@ -17,3 +17,12 @@ section {
   width: 80%;
   margin: 0 auto;
 }
+
+a {
+  font-size: 120%;
+}
+
+a:hover {
+  font-size: 150%;
+  color: gray;
+}
