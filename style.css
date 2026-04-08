@@ -22,9 +22,3 @@ a {
   font-size: 120%;
   text-decoration: none;
 }
-
-a[target="_blank"]:hover {
-  font-size: 150%;
-  color: #00BC65;
-  text-decoration: none;
-}
