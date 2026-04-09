@@ -22,3 +22,7 @@ a {
   font-size: 120%;
   text-decoration: none;
 }
+
+section {
+  display: none;
+}
