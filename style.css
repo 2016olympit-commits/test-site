@@ -23,6 +23,6 @@ a {
   text-decoration: none;
 }
 
-section {
+section, main {
   display: none;
 }
